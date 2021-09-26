@@ -31,7 +31,7 @@ Outcome: Class variable (0 or 1) 268 of 768 are 1, the others are 0
 
 ## EDA and Model Building:
 
-pima-indian-diabetes-eda-prediction-hp-tuning.ipynb
+https://github.com/anikch/PIMA-indian-diabetes-eda-prediction/blob/main/pima-indian-diabetes-eda-prediction-hp-tuning.ipynb
 
 ## Tableau Dashboard Link
 
